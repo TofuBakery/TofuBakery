@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Bao Dat
+# Welcome, I'm Bao Dat.
 
 ### Computer Engineering Student | Embedded Systems | IoT | RTOS | AI
 
