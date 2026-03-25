@@ -15,7 +15,6 @@
 - 🎓 I am currently studying at **Ho Chi Minh University of Technology (HCMUT)**
 - ⚡ I focus on **Embedded Systems, IoT, Microcontrollers, and Real-Time Applications**
 - 🧠 I enjoy working on **AI, TinyML, FPGA, and software-hardware integration**
-- ⚙️ Strong interest in Embedded Systems, IoT, and low-level programming
 - 🌐 Currently expanding into Full Stack Development and web-based applications
 - 🛠️ I build systems using **C/C++, Python, ESP32, FreeRTOS, and Linux**
 - 📫 Reach me at: **datsaber@gmail.com**
