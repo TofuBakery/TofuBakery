@@ -4,7 +4,7 @@
 
 ### Computer Engineering Student | Embedded Systems | IoT | RTOS | AI
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Building%20Systems%20That%20Matter&fontSize=35&fontColor=ffffff" />
 
 </div>
 
